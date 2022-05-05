@@ -1,0 +1,45 @@
+body{
+    background-image: url("birdsfly.jpg"); 
+    background-position: center;
+  
+  }
+  
+  #comp{
+      color: red;
+      font-style: italic;
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  #tour{
+      color: green;
+      font-style: oblique;
+      font-family: monospace;
+  }
+  #tech{
+      color: purple;
+      font-style: initial;
+      font-family: 'Times New Roman', Times, serif;
+  }
+  #plumb{
+      color: brown;
+      font-style: inherit;
+      font-family: sans-serif;
+  }
+  #mass{
+      color:grey;
+      font-style: italic;
+      font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  }
+  #base{
+      position: sticky;
+      font-size: 5px;
+  }
+  
+  form{
+      background-color: yellow;
+  }
+  #save{
+      background-color: blue;
+  }
+  #reset{
+      background-color: orange;
+  }
